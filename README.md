@@ -13,6 +13,6 @@ Initial Release
 - Magisk v15.0+
 - Android 5.0+
 
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
+[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/htc-camera-magisk-t3783595/)
 
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
