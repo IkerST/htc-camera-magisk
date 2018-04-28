@@ -7,6 +7,7 @@ This is a module for installing HTC Camera systemlessly with Magisk.
 
 # **HTC Camera**
 ## Changelog
+### v1.0
 Initial Release
 ## Requirements
 - Magisk v15.0+
