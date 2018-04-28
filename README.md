@@ -1,30 +1,17 @@
-# Magisk Module Template
+# HTC Camera for Magisk
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+This is a module for installing HTC Camera systemlessly with Magisk.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
 
 ---
-# **Module Name**
-## Description
-Description here
+
+# **HTC Camera**
 ## Changelog
-Changelog here
+Initial Release
 ## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
-## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
-## Links
+- Magisk v15.0+
+- Android 5.0+
+
 [Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
 
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
