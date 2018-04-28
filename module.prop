@@ -1,7 +1,7 @@
 id=htc-camera
-name=Template Module
-version=v1
-versionCode=1
+name=HTC Camera
+version=v1.0
+versionCode=1.0
 author=IkerST
 description=Systemless HTC Camera
 minMagisk=1500
